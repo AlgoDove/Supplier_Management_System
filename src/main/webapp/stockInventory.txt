@@ -1,0 +1,22 @@
+Nestle,Milk Powder,Nestle Everyday,50,1280.00,2025-05-17,2026-02-14
+Nestle,Milk Powder,Lactogen,20,1480.00,2025-05-17,2025-11-10
+Nestle,Milk Powder,NAN PRO,35,1150.00,2025-05-17,2025-05-21
+Britannia,Biscuit,Marie Gold Biscuit,55,130.00,2025-05-17,2025-08-02
+Britannia,Biscuit,Bourbon,100,150.00,2025-05-17,2025-07-18
+Britannia,Biscuit,Good Day (Cashew),30,230.00,2025-05-17,2025-11-13
+Britannia,Biscuit,Good Day (Choco-chip),120,80.00,2025-05-17,2025-09-20
+Britannia,Biscuit,Good Day (Butter),30,140.00,2025-05-17,2025-10-24
+Coca-Cola,Soft drink,Coca-Cola Original,200,350.00,2025-05-17,2025-07-22
+Coca-Cola,Soft drink,Sprite (1 litre),250,200.00,2025-05-17,2025-07-25
+Coca-Cola,Soft drink,Fanta Orange (1.5 litre),25,350.00,2025-05-17,2025-05-30
+Nestle,Milk Powder,Anchor,100,1050.00,2025-05-10,2026-02-25
+Nestle,Milk Powder,Milo,50,980.00,2025-05-10,2026-02-20
+Nestle,Milk Powder,Anchor,100,1050.00,2025-05-10,2026-01-05
+Nestle,Milk Powder,Milo,47,980.00,2025-05-10,2026-02-20
+Nestle,Milk Powder,Boost,35,1200.00,2025-05-10,2025-12-09
+Nestle,Milk Powder,BoneVita,35,1350.00,2025-05-10,2026-02-12
+Nestle,Milk Powder,Milo,80,1150.00,2025-05-15,2025-12-11
+Nestle,Milk Powder,Viva,20,890.00,2025-05-15,2026-01-01
+Nestle,Milk Powder,Nestamolt,25,925.00,2025-05-16,2026-02-10
+Nestle,Milk Powder,Horlicks,85,1380.00,2025-05-16,2026-01-09
+Nestle,Milk Powder,Boost,50,1250.00,2025-05-13,2025-11-21

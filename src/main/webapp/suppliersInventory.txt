@@ -1,0 +1,17 @@
+BT distributor
+Britannia,Biscuit,Marie Gold Biscuit,55,130.00,2025-05-17,2025-08-02
+Britannia,Biscuit,Bourbon,100,150.00,2025-05-17,2025-07-18
+Britannia,Biscuit,Good Day (Cashew),30,230.00,2025-05-17,2025-11-13
+Britannia,Biscuit,Good Day (Choco-chip),120,80.00,2025-05-17,2025-09-20
+Britannia,Biscuit,Good Day (Butter),30,140.00,2025-05-17,2025-10-24
+
+Coke_Supply
+Coca-Cola,Soft drink,Coca-Cola Original,200,350.00,2025-05-17,2025-07-22
+Coca-Cola,Soft drink,Sprite (1 litre),250,200.00,2025-05-17,2025-07-25
+Coca-Cola,Soft drink,Fanta Orange (1.5 litre),25,350.00,2025-05-17,2025-05-30
+
+DairyFresh
+Nestle,Milk Powder,Nestle Everyday,50,1280.00,2025-05-17,2026-02-14
+Nestle,Milk Powder,Lactogen,20,1480.00,2025-05-17,2025-11-10
+Nestle,Milk Powder,NAN PRO,35,1150.00,2025-05-17,2025-05-21
+

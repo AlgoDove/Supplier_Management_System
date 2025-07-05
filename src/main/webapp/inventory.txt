@@ -1,0 +1,7 @@
+Bimsara
+Milk Powder,Milo,Nestle,3,980.0,2025-05-01,2026-02-20
+Nestle,Milk Powder,Anchor,100,1050.00,2025-05-10,2026-01-05
+Nestle,Milk Powder,Milo,50,980.00,2025-05-10,2026-02-20
+Nestle,Milk Powder,Boost,35,1200.00,2025-05-10,2025-12-09
+Nestle,Milk Powder,BoneVita,35,1350.00,2025-05-10,2026-02-12
+Nestle,Milk Powder,Boost,50,1250.00,2025-05-13,2025-11-21
